@@ -1,5 +1,6 @@
 🩺 Pneumonia Detection using Deep Learning
-This project is a deep learning–based pneumonia detection system built using a ResNet50 convolutional neural network trained on chest X-ray images. The model predicts whether pneumonia is present from an uploaded chest X-ray image through an interactive Streamlit web application.
+
+This project is a deep learning–based pneumonia detection system built using a ResNet50 convolutional neural network trained on chest X‑ray images. The model predicts whether pneumonia is present from an uploaded chest X‑ray image through an interactive Streamlit web application.
 
 🚀 Features
 AI-based chest X-ray classification (Pneumonia / Normal)
@@ -14,18 +15,17 @@ Streamlit
 NumPy & Pillow
 
 📂 Project Structure
-streamlit_pneumonia_app.py   → Streamlit application
-xray_resnet50_final.h5       → Trained deep learning model
-requirements.txt             → Required Python libraries
-
+streamlit_pneumonia_app.py – Main Streamlit application
+xray_resnet50_final.h5 – Trained deep learning model
+requirements.txt – Required Python libraries
 
 ⚠️ Disclaimer
-This application is intended for educational and demonstration purposes only.
-It is not a medical diagnostic tool and should not be used for clinical decisions.
-Always consult a qualified healthcare professional.
+This application is intended for educational and demonstration purposes only. It is not a medical diagnostic tool and should not be used for clinical decision-making. Always consult a qualified healthcare professional for medical advice.
 
 📌 Future Improvements
 Model performance optimization
 Explainable AI visualization (Grad-CAM)
-Improved UI/UX
-Larger dataset training
+Cloud eployment enhancements
+Expanded medical dataset training
+
+
